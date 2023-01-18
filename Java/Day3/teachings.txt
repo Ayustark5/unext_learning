@@ -1,0 +1,11 @@
+OOPS:
+    * Object
+        * Real world entity
+        * Has Property/Attribute/State, Behaviour/functions, identity 
+    * Class
+    * Encapsulation
+    * Abstraction
+    * Inheritance
+    * Polymorphism
+    * Late Binding / Dynamic Binding
+    * Message Passing
